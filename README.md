@@ -1,40 +1,65 @@
-# Moinuddin-Shaikh12
-
-<h1 align="center">Hi 👋, I'm Moinuddin Shaikh</h1>
-<h3 align="center">Full Stack Developer | Python</h3>
+<h1 align="center">
+  Hi 👋, I'm Moinuddin Shaikh
+</h1>
 
 <p align="center">
-  🚀 Backend-first Developer | 💡 Problem Solver | ☁️ Cloud Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;Python+Developer;Backend+First+Engineer;Cloud+Enthusiast;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  🚀 Backend-first Developer &nbsp;|&nbsp; 💡 Problem Solver &nbsp;|&nbsp; ☁️ Cloud Enthusiast
 </p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/moin-shaikh-8535333a9)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:moinshek219@gmail.com)
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/moin-shaikh-8535333a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moinshek219@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moinuddin-Shaikh12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moinuddin-Shaikh12&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-Shaikh12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/Moinuddin-Shaikh12/Moinuddin-Shaikh12/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ “Code. Learn. Build. Repeat.”
+</p>
