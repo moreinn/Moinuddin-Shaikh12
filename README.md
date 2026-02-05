@@ -52,8 +52,6 @@
   </a>
 </p>
 
-🔴 **PROJECT_1 / 2 / 3 ko apne repo names se replace karna**
-
 ---
 
 ## 📊 GitHub Stats
