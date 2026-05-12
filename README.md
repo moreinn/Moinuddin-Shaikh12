@@ -22,7 +22,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moinuddin-shaikh">
+  <a href="https://www.linkedin.com/in/moinuddin-shaikh-8535333a9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 
